@@ -1,0 +1,2 @@
+# rs-day2bcd
+Day number(1,2,3, ... , 31) -> BCD(0x01,0x02,0x03, ... , 0x31)
